@@ -2,4 +2,18 @@
 
 Practice Python modules for machine learning.
 
-Numpy, Pandas, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, PyTorch
+Numpy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Plotly
+
+TensorFlow
+
+Keras
+
+PyTorch
